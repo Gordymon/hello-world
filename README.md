@@ -1,2 +1,4 @@
 # hello-world
-hello-world program
+
+Hi!
+I`m Ted. It`s all =).
